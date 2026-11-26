@@ -4,6 +4,7 @@
 
 CampusMate helps international students navigate campus with ease. It combines **outdoor + indoor navigation**, **real-time sign translation** and a **campus glossary** in one app, so newcomers can overcome language barriers and understand an unfamiliar campus environment.
 
+
 ---
 
 
@@ -39,6 +40,8 @@ On top of that, students juggle **Google Maps + Google Translate + the universit
 | "Language barriers make signboards hard to understand" | Signage is printed only in the local language | **Live Camera Translation Viewfinder** | Point-and-translate lens tool built into the main app |
 | "Campus directions are confusing… unfamiliar terminology" | Local acronyms (FSKTM, DKAP) | **Terminology Decoupling Cards** | Expandable glossary definitions in the search results |
 | "Alex uses Google Maps, then switches to Google Translate…" | App-switching fatigue | **Unified Navigation Suite** | Schedule, map and translation in one persistent bottom tab bar |
+
+[User Journey Map](https://www.figma.com/make/IZLSv6wk4b6yZomZ0h7Tnv/User-Journey-Map?p=f&t=qXCZeD5yKBZHO2kn-0)
 
 ---
 
@@ -112,8 +115,8 @@ Tabler Icons provide a consistent line-icon style across navigation, directions 
 | **Bottom tab bar** | Home · Schedule · Translate · Map |
 
 ---
-
-##  Usability Fixes (Wireframe → Hi-Fi)
+##  Wireframae - [FigmaWireframe](https://www.figma.com/proto/HLSG9lD5sMqzTciZ4nO11k/SWE3307?node-id=1-887&starting-point-node-id=1%3A887)
+##  Usability Fixes (Low-Fi → Hi-Fi)
 
 Problems found during wireframe testing were fixed using **Nielsen's 10 Usability Heuristics**.
 
